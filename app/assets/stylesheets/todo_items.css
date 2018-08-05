@@ -1,0 +1,35 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+* {
+	font-family: cursive;
+	color: white;
+}
+
+body {
+	background-image: url(https://images.pexels.com/photos/386148/pexels-photo-386148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	font-size: 20px;
+	line-height: 30px;
+	margin: 0 auto;
+	margin-top: 10em;
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+td {
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
